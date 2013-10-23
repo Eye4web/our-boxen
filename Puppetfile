@@ -46,6 +46,7 @@ github "phpstorm",   "1.0.3"
 github "colloquy",   "1.0.0"
 github "googledrive", "1.0.2"
 github "google_notifier", "1.0.1"
+github "virtualbox",  "1.0.7"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
