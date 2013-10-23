@@ -56,7 +56,6 @@ node default {
   include dnsmasq
   include git
   include hub
-  include spotify
   include phpstorm
   include vagrant
   include skype
