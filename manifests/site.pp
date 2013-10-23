@@ -69,6 +69,7 @@ node default {
   include colloquy
   include googledrive
   include google_notifier
+  include virtualbox
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
