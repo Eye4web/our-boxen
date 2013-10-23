@@ -65,7 +65,7 @@ node default {
   include dropbox
   include java
   include chrome
-  include zsh
+  #include zsh
   include colloquy
   include googledrive
   include google_notifier
