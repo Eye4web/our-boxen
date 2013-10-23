@@ -56,7 +56,20 @@ node default {
   include dnsmasq
   include git
   include hub
-  include nginx
+  include spotify
+  include phpstorm
+  include vagrant
+  include skype
+  include alfred
+  include onepassword
+  include firefox
+  include dropbox
+  include java
+  include chrome
+  include zsh
+  include colloquy
+  include googledrive
+  include google_notifier
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
